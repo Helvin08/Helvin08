@@ -36,9 +36,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Helvin08&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Helvin08&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
