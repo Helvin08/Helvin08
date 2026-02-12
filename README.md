@@ -5,25 +5,25 @@
 
 ---
 
-## 💼 Professional Summary
+## Professional Summary
 Passionate Frontend Developer skilled in building responsive and modern web applications using HTML, CSS, JavaScript and Python. Experienced in creating booking platforms and interactive user interfaces.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 - **Languages:** HTML, CSS, JavaScript, Python  
 - **Tools:** Git, GitHub, VS Code  
 - **Other:** Responsive Design, UI Development  
 
 ---
-### 🚀 Featured Projects
+### Featured Projects
 - Sports-Spots
 - Cars-HubX
 - AI-chatBot
 - game
 ---
 
-## 🚀 Major Project
+## Major Project
 ### 🟢Cars HubX
 It website for downloading cars image and Exploring history of cars
 ### 🟢 Sports Spots
@@ -32,20 +32,26 @@ Modern sports ground booking web application focused on performance, usability, 
 ---
 ---
 
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://instagram.com/helvin.x08" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+<a href="https://github.com/Helvin08" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://linkedin.com/in/Sahaya Helvin" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+  <a href="mailto:sahayahelvin0806@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
 ---
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@email.com)
-
-
-## 📈 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Helvin08&show_icons=true&theme=github_dark)
+## GitHub Overview
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Helvin08?cardType=github&theme=github-dark&fontFamily=ABeeZee&preferLogin=false)
 
 ---
