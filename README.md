@@ -6,7 +6,7 @@
 ---
 
 ## 💼 Professional Summary
-Passionate Frontend Developer skilled in building responsive and modern web applications using JavaScript and Python. Experienced in creating booking platforms and interactive user interfaces.
+Passionate Frontend Developer skilled in building responsive and modern web applications using HTML, CSS, JavaScript and Python. Experienced in creating booking platforms and interactive user interfaces.
 
 ---
 
@@ -24,6 +24,8 @@ Passionate Frontend Developer skilled in building responsive and modern web appl
 ---
 
 ## 🚀 Major Project
+### 🟢Cars HubX
+It website for downloading cars image and Exploring history of cars
 ### 🟢 Sports Spots
 Modern sports ground booking web application focused on performance, usability, and clean UI.
 
