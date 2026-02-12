@@ -41,7 +41,7 @@ Modern sports ground booking web application focused on performance, usability, 
 <a href="https://github.com/Helvin08" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<a href="https://linkedin.com/in/Sahaya Helvin" target="blank">
+<a href="https://www.linkedin.com/in/sahaya-helvin?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
   <a href="mailto:sahayahelvin0806@gmail.com" target="blank">
