@@ -17,7 +17,7 @@ Passionate Frontend Developer skilled in building responsive and modern web appl
 
 ---
 ### Featured Projects
-- Sports-Spots
+- Sportify-Spots
 - Cars-HubX
 - AI-chatBot
 - game
