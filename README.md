@@ -17,6 +17,7 @@ Passionate Frontend Developer skilled in building responsive and modern web appl
 
 ---
 ### Featured Projects
+- Codex-hackathon
 - Sportify-Spots
 - Cars-HubX
 - AI-chatBot
@@ -28,6 +29,8 @@ Passionate Frontend Developer skilled in building responsive and modern web appl
 It website for downloading cars image and Exploring history of cars
 ### 🟢 Sports Spots
 Modern sports ground booking web application focused on performance, usability, and clean UI.
+### 🟢 Codex Hackathon
+For Registration Hackathon
 
 ---
 ---
