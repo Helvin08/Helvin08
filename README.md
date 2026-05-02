@@ -11,8 +11,8 @@ Passionate Frontend Developer skilled in building responsive and modern web appl
 ---
 
 ## Technical Skills
-- **Languages:** HTML, CSS, JavaScript, Python  
-- **Tools:** Git, GitHub, VS Code  
+- **Languages:** HTML, CSS, JavaScript, Python, React JS 
+- **Tools:** Git, GitHub, VS Code 
 - **Other:** Responsive Design, UI Development  
 
 ---
