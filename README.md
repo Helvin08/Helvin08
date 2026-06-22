@@ -2,9 +2,10 @@
 
 # 👋 Hey, I'm Sahaya Helvin
 
-### Founder & Frontend Developer at The Whale Dev
+### Frontend & Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Frontend+Developer;Web+Application+Builder;Founder+of+The+Whale+Dev;Building+Digital+Experiences;Turning+Ideas+Into+Reality" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Frontend+Developer;Web+Application+Builder;Founder+of+The+Whale+Dev;Building+Digital+Experiences;Turning+Ideas+Into+Reality" />
 
 <br>
 
@@ -14,19 +15,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Final Year BCA Student
-- 💻 Frontend Developer passionate about creating modern web experiences
-- 🚀 Founder of **The Whale Dev**
-- 🌱 Currently exploring React, AI Integration, and Full-Stack Development
-- 🎯 Focused on building scalable, user-friendly web applications
-- 📍 Bengaluru, India
+- Final Year BCA Student
+-  Frontend Developer passionate about creating modern web experiences
+-  Founder of <a href="https://github.com/TheWhaleDev-io">THE WHALE DEV</a>
+  -  Currently exploring React, AI Integration, and Full-Stack Development
+-  Focused on building scalable, user-friendly web applications
+-  Bengaluru, India
 
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -48,7 +49,7 @@
 ---
 
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### 🏆 CODEX'26 Hackathon
 National AI Hackathon Registration Platform featuring modern UI, event management, and participant onboarding.
@@ -64,7 +65,7 @@ AI-powered conversational assistant designed for businesses and customer engagem
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -82,7 +83,7 @@ AI-powered conversational assistant designed for businesses and customer engagem
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -92,7 +93,7 @@ AI-powered conversational assistant designed for businesses and customer engagem
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building modern web applications
 - AI-powered solutions
@@ -103,7 +104,7 @@ AI-powered conversational assistant designed for businesses and customer engagem
 ---
 
 
-# 🌍 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -129,9 +130,10 @@ AI-powered conversational assistant designed for businesses and customer engagem
 
 <div align="center">
 
-## 🐋 The Whale Dev
-
-💡 "Turning Ideas Into Reality"
+<h1>
+  <a href="https://github.com/TheWhaleDev-io">THE WHALE DEV</a>
+</h1>
+ "Turning Ideas Into Reality"
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=150&section=footer"/>
